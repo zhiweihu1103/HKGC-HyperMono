@@ -1,5 +1,5 @@
-# HyperMono: Monotonicity-aware Knowledge Fusion in Hyper-Relational Representation Learning
-#### This repo provides the source code & data of our paper: HyperMono: Monotonicity-aware Knowledge Fusion in Hyper-Relational Representation Learning.
+# Monotonicity-aware Knowledge Fusion for Hyper-Relational Knowledge Representation
+#### This repo provides the source code & data of our paper: Monotonicity-aware Knowledge Fusion for Hyper-Relational Knowledge Representation.
 ## Dependencies
 * conda create -n hypermono python=3.7 -y
 * PyTorch 1.8.1
